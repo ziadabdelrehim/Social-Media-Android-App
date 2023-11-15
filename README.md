@@ -12,7 +12,7 @@ Check out the [Demo Video](https://github.com/ziadabdelrehim/Social-Media-Androi
 ## Features
 
 1. **Account Creation:**
-   - Users can create accounts by providing their name and phone number.
+   - Users can create accounts by providing their email, name and phone number.
 
 2. **Friend Management:**
    - Users can send and accept friend requests.
@@ -34,7 +34,6 @@ Check out the [Demo Video](https://github.com/ziadabdelrehim/Social-Media-Androi
 - Android Studio
 - Java/Kotlin
 - SQLite Database
-- Firebase Authentication (if applicable)
 
 ## Database Schema
 
